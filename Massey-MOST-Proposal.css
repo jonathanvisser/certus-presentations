@@ -30,6 +30,9 @@
 	/*background: linear-gradient(90deg, rgba(169,29,70,0.34558823529411764) 0%, rgba(247,165,28,0.16351540616246496) 100%);*/
 }
 
+.objective h1, .objective h2, .objective h3{
+	color:#424242;
+}
 .objective p{
 	margin-top:100px;
 	font-weight: bold;
