@@ -12,7 +12,7 @@ layout: true
 <div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
 
 ---
-background-image: url(img/bg-certus-slide.jpg)
+background-image: url()
 class: center, objective
 # Objective
 

@@ -36,6 +36,10 @@
 	color: #A91D46;
 }
 
+.objective .footer-content p{
+	color: white;
+}
+
 html body{font-family:Gotham SSm A,Gotham SSm B,Helvetica,Arial,sans-serif;font-weight:300}
 .background {
     background-position: top left;
