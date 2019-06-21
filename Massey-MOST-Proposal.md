@@ -8,8 +8,14 @@ class: background, center, middle
 
 
 ---
-
-
+layout: true
+<div id="footer-content">
+  <p>
+    <img src="img/logo.png" style="width: 228px;"/>
+    This is a customized footer that appears on all slides
+  </p>
+</div>
+---
 
 # Objective
 
