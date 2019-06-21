@@ -34,7 +34,7 @@ To take this proposal forward, we recommend the following two-stage approach:
 
 * Unify survey tooling to Qualtrics platform to simply support and maintenance of surveys.
 * Support current reporting output, but enable self-service reporting also.
-* Single-sign-on Integration.
+  * Single-sign-on Integration.
 * Increase capacity to support "every offering every time".
 * Improve support for Mobile devices.
 
@@ -43,6 +43,12 @@ To take this proposal forward, we recommend the following two-stage approach:
 ## Scope
 
 ### Stage One - Planning
+
+| heading   | heading 2     | heading 3 |
+| --------- | ------------- | --------- |
+| Some data | And some more | and again |
+|           |               |           |
+|           |               |           |
 
 
 

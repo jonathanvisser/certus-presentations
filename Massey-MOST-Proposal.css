@@ -31,7 +31,7 @@
 }
 
 .objective p{
-	margin-top:120px;
+	margin-top:100px;
 	font-weight: bold;
 	line-height: 2em;
 	color: white;
@@ -59,6 +59,8 @@ ul li::before {
     width: 1em;
     margin-left: -1em;
     float:left;
+    position:relative;
+    top:-6px;
 }
 li > ul > li::before {
     content: "◦";
