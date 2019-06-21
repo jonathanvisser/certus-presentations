@@ -12,7 +12,8 @@ layout: true
 <div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
 
 ---
-class: center, middle
+background-image: url(img/bg-certus-slide.jpg)
+class: center, objective
 # Objective
 
 Develop and migrate to the next-generation MOST platform - improving the user experience, scalability, and reporting features, whilst retaining the best parts of the initial investment.
