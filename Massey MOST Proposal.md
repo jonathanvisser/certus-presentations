@@ -1,3 +1,16 @@
+background-image: url(img/bg-certus-slide.jpg)
+class: background, center, middle
+
+# MASSEY MOST.next
+
+# Survey & Reporting Solution Upgrade Proposal
+
+
+
+---
+
+
+
 # Objective
 
 Develop and migrate to the next-generation MOST platform - improving the user experience, scalability, and reporting features, whilst retaining the best parts of the initial investment.
@@ -11,7 +24,6 @@ The following represents some initial thoughts around objectives, scope, and eff
 To take this proposal forward, we recommend the following two-stage approach:
 
 1. **Planning and design** Statement of Work, including workshops, architectural detailing, and creation of a detailed implementation project plan.
-
 2. **Implementation and go-live** Statement of Work, including development, integration, and User Acceptance Testing, and out into pilot and production.
 
 ---
@@ -54,4 +66,5 @@ Quality Assurance
 * Functional Testing.
 
 * 
+
 ---
