@@ -5,7 +5,7 @@ class: background, center, middle
 
 # Survey & Reporting Solution Upgrade Proposal
 
-
+.logo[]
 
 ---
 layout: true
