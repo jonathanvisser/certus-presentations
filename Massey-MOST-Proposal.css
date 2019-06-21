@@ -5,6 +5,12 @@
   position: absolute;
   width: 100%;
   bottom: 0em;
+  margin-left:-80px;
+  border-top: 1px solid #999;
+}
+#footer-content p{
+	font-size: 14px;
+	text-transform: uppercase;
 }
 
 html body{font-family:Gotham SSm A,Gotham SSm B,Helvetica,Arial,sans-serif;font-weight:300}
