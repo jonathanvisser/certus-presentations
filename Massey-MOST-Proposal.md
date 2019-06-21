@@ -12,7 +12,22 @@ layout: true
 <div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
 
 ---
+### CONTENTS
+
+* Objective
+* Summary
+* Architectural Goals
+* Solution Overview
+* Scope
+* Approach
+* Rough-Order-of-Magnitude Investment
+
+
+
+---
+
 class: center, objective
+
 # Objective
 
 Develop and migrate to the next-generation MOST platform - improving the user experience, scalability, and reporting features, whilst retaining the best parts of the initial investment.
