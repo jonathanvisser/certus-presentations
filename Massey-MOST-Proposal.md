@@ -5,16 +5,12 @@ class: background, center, middle
 
 # Survey & Reporting Solution Upgrade Proposal
 
-.logo[]
+.logo[<img src="img/logo.png" style="width: 160px;float:left;top:-20px;position:relative;"/>]
 
 ---
 layout: true
-<div id="footer-content">
-  <p>
-    <img src="img/logo.png" style="width: 160px;float:left;top:-20px;position:relative;"/>
-    **Fresh Ideas.** Exceptional Outcomes.
-  </p>
-</div>
+<div id="footer-content"><p>**Fresh Ideas.** Exceptional Outcomes.</p></div>
+
 ---
 
 # Objective
