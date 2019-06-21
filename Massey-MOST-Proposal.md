@@ -5,7 +5,7 @@ class: background, center, middle
 
 # Survey & Reporting Solution Upgrade Proposal
 
-.logo[<img src="img/logo.png" style="width: 160px;float:left;top:-20px;position:relative;"/>]
+.logo[<img src="img/logo.png"/>]
 
 ---
 layout: true
