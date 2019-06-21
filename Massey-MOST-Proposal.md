@@ -9,7 +9,7 @@ class: background, center, middle
 
 ---
 layout: true
-<div id="footer-content"><p>**Fresh Ideas.** Exceptional Outcomes.</p></div>
+<div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
 
 ---
 
