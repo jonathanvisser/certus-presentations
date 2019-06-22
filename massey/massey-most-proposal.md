@@ -1,11 +1,11 @@
-background-image: url(img/bg-certus-slide.jpg)
+background-image: url(massey/img/bg-certus-slide.jpg)
 class: background, center, middle
 
 # MASSEY MOST.next
 
 # Survey & Reporting Solution Upgrade Proposal
 
-.logo[<img src="img/logo.png"/>]
+.logo[<img src="massey/img/logo.png"/>]
 
 ---
 layout: true
