@@ -1,4 +1,4 @@
-background-image: url(img/bg-certus-slide.jpg)
+background-image: url(massey/img/bg-certus-slide.jpg)
 class: background, center, middle
 
 # MASSEY MOST.next
