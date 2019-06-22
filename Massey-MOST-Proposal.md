@@ -20,13 +20,13 @@ layout: true
 * Solution Overview
 * Scope
 * Approach
-* Rough-Order-of-Magnitude Investment
+* Rough-Order-of-Magnitude Investment Estimate
 
 
 
 ---
 
-class: center, objective
+class: center, red
 
 # Objective
 
@@ -45,49 +45,68 @@ To take this proposal forward, we recommend the following two-stage approach:
 
 ---
 
-## Architectural Objectives
+# Architectural Goals
 
 * Unify survey tooling to Qualtrics platform to simply support and maintenance of surveys.
 * Support current reporting output, but enable self-service reporting also.
-  * Single-sign-on Integration.
+* Single-sign-on Integration.
 * Increase capacity to support "every offering every time".
 * Improve support for Mobile devices.
 
 ---
 
-## Scope
+# Solution Overview
+
+
+
+---
+
+# Scope
 
 ### Stage One - Planning
 
-| heading   | heading 2     | heading 3 |
-| --------- | ------------- | --------- |
-| Some data | And some more | and again |
-|           |               |           |
-|           |               |           |
 
 
+---
 
 ### Stage Two - Implementation
 
-Technical
+.grid[
+
+.left.box.small.green[**TECHNICAL**
 
 * Establishment of Power BI reporting environment.
 * Development of Orchestration layer.
 * Integration to Qualtrics, SMS, Stream, Power BI, and any necessary 3rd-party data sources.
-* Data migration.
+* Data migration.]
 
-Business Analysis
+.right.box.small.blue[**BUSINESS ANALYSIS**
 
 * Migration of SSRS reporting to Power BI reporting.
 * Qualtrics survey establishment.
 * User Acceptance Testing support.
 * Support & Maintenance hand-over (technical).
-* Training and hand-over (user).
+* Training and hand-over (user).]
 
-Quality Assurance
+.left.box.small.yellow[**QUALITY ASSURANCE**
 
 * Functional Testing.
+* ]
 
-* 
+.right.box.small.red[**ANOTHER**
+* a dot
+* another]
+]
 
 ---
+
+
+
+# Approach
+
+
+
+---
+
+# ROM Investment Estimate
+
