@@ -5,7 +5,7 @@ class: background, center, middle
 
 # Survey & Reporting Solution Upgrade Proposal
 
-.logo[<img src="img/logo.png"/>]
+.logo[<img src="massey/img/logo.png"/>]
 
 ---
 layout: true
