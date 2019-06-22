@@ -12,7 +12,11 @@ layout: true
 <div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
 
 ---
+
+
 ### CONTENTS
+
+.box[
 
 * Objective
 * Summary
@@ -20,7 +24,7 @@ layout: true
 * Solution Overview
 * Scope
 * Approach
-* Rough-Order-of-Magnitude Investment Estimate
+* Investment Ballpark]
 
 
 
@@ -87,26 +91,45 @@ To take this proposal forward, we recommend the following two-stage approach:
 * User Acceptance Testing support.
 * Support & Maintenance hand-over (technical).
 * Training and hand-over (user).]
+] 
 
+.grid.x1[
 .left.box.small.yellow[**QUALITY ASSURANCE**
-
 * Functional Testing.
 * ]
-
-.right.box.small.red[**ANOTHER**
-* a dot
-* another]
 ]
 
 ---
 
-
-
 # Approach
+.grid.x3[
+  .left.box.small.red[**QUALITY ASSURANCE**
 
-
+* Functional Testing.
+* Something else.
+* And another. ]
+  .right.box.small.yellow[**QUALITY ASSURANCE**
+* Functional Testing.]
+]
 
 ---
 
-# ROM Investment Estimate
+# Investment Ballpark
 
+.small.condense[
+| Activity          | Estimate Hours | Estimate Investment |
+| ----------------- | -------------- | ------------------- |
+| Development       | .right[80]            | $13,200            |
+| Business Analysis |                |                     |
+| Quality Assurance |                |                     |
+| Management        |                |                     |
+| .right[**totals:**]	    | .right[**300**]	| .right[**$320,000**] |
+]
+
+---
+
+class: center, blue
+
+# Next Steps
+
+Consider and arrange Planning and Design initiation.
