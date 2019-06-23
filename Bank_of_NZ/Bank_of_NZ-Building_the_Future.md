@@ -1,11 +1,11 @@
-background-image: url(Mackie/img/bg-certus-slide.jpg)
+background-image: url(Bank_of_NZ/img/bg-certus-slide.jpg)
 class: background, center, middle
 
-# Mackie: Sounds of the Future
+# Bank of NZ: Building the Future
 
 # Subtitle
 
-.logo[<img src="Mackie/img/logo.png"/>]
+.logo[<img src="Bank_of_NZ/img/logo.png"/>]
 
 ---
 layout: true
