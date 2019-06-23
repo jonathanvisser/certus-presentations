@@ -1,11 +1,11 @@
-background-image: url(<full-relative-path>/img/bg-certus-slide.jpg)
+background-image: url(${customer}/img/bg-certus-slide.jpg)
 class: background, center, middle
 
 # TITLE
 
 # Subtitle
 
-.logo[<img src="<full-relative-path>/img/logo.png"/>]
+.logo[<img src="${customer}/img/logo.png"/>]
 
 ---
 layout: true
