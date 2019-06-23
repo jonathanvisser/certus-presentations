@@ -1,11 +1,11 @@
-background-image: url(windows/img/bg-certus-slide.jpg)
+background-image: url(garmin/img/bg-certus-slide.jpg)
 class: background, center, middle
 
 # TITLE
 
 # Subtitle
 
-.logo[<img src="windows/img/logo.png"/>]
+.logo[<img src="garmin/img/logo.png"/>]
 
 ---
 layout: true
