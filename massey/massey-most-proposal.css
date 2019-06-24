@@ -319,3 +319,12 @@ table {
 .tight h1{
   margin-bottom:0px !important;
 }
+.floatright{
+position: relative;
+right: -50px;
+float: right;
+}
+.bblue{
+  font-weight: bold;
+  color: #0599C6;
+}

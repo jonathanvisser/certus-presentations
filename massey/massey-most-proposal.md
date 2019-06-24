@@ -2,7 +2,6 @@ background-image: url(massey/img/bg-certus-slide.jpg)
 class: background, center, middle
 
 # MASSEY MOST.next
-
 # Survey & Reporting Solution Upgrade Proposal
 
 .logo[<img src="massey/img/logo.png"/>]
@@ -10,6 +9,7 @@ class: background, center, middle
 ---
 layout: true
 <div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
+
 ---
 
 **CONTENTS**
@@ -22,8 +22,6 @@ layout: true
 * Scope
 * Approach
 * Investment Ballpark]
-
-
 
 ---
 
@@ -56,12 +54,17 @@ To take this proposal forward, we recommend the following two-stage approach:
 
 ---
 
-.tight[<h1>Solution Overview</h1>]
-.grid[.left.small[The recommended approach aligns the MOST solution to Massey's existing technology landscape.]
-.right[<img src="massey/img-massey-most-proposal/solution-overview.png" width="480px"/>]
+.tight[
+# Solution Overview
 ]
+.small[The recommended approach aligns the MOST solution to Massey's existing technology landscape - leveraging the best components for each job, whilst delivering a seamless and improved user experience .
+.floatright[<img src="massey/img-massey-most-proposal/solution-overview.png" width="480px"/>]
 
-
+Here are the noteable benefits:
+* .bblue[Improved mobility, user-experience, scalability, standardisation, and maintenance] through the use of Qualtrics to manage the surveys.
+* .bblue[Increased participation rates] by reducing friction by implementing single-sign-on.
+* .bblue[Enhanced insights] through the use of Microsoft's Power BI reporting solution and integration with enriching data.
+]
 
 ---
 
