@@ -1,13 +1,13 @@
-background-image: url(BBC/img/bg-certus-slide.jpg)
+background-image: url(ABC/img/bg-certus-slide.jpg)
 class: background, center, middle
 
-# BBC
+# ABC
 
-# eatme
+# My Second
 
 .small.center[Author:   |   Version: draft v0.1]
 
-.logo[<img src="BBC/img/logo.png"/>]
+.logo[<img src="ABC/img/logo.png"/>]
 
 ---
 layout: true
