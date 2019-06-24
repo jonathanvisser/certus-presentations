@@ -1,13 +1,13 @@
-background-image: url(BCGM/img/bg-certus-slide.jpg)
+background-image: url(ZCC/img/bg-certus-slide.jpg)
 class: background, center, middle
 
-# BCGM
+# ZCC
 
-# World Music
+# I Want
 
 .small.center[Author:   |   Version: draft v0.1]
 
-.logo[<img src="BCGM/img/logo.png"/>]
+.logo[<img src="ZCC/img/logo.png"/>]
 
 ---
 layout: true
