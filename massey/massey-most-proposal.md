@@ -10,7 +10,6 @@ class: background, center, middle
 ---
 layout: true
 <div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
-
 ---
 
 **CONTENTS**
@@ -57,7 +56,10 @@ To take this proposal forward, we recommend the following two-stage approach:
 
 ---
 
-# Solution Overview
+.tight[<h1>Solution Overview</h1>]
+.grid[.left.small[The recommended approach aligns the MOST solution to Massey's existing technology landscape.]
+.right[<img src="massey/img-massey-most-proposal/solution-overview.png" width="480px"/>]
+]
 
 
 
