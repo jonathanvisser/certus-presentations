@@ -1,13 +1,13 @@
-background-image: url(BNZ/img/bg-certus-slide.jpg)
+background-image: url(ABV/img/bg-certus-slide.jpg)
 class: background, center, middle
 
-# BNZ
+# ABV
 
-# Asset Finance
+# Music and Dance
 
 .small.center[Author:   |   Version: draft v0.1]
 
-.logo[<img src="BNZ/img/logo.png"/>]
+.logo[<img src="ABV/img/logo.png"/>]
 
 ---
 layout: true
