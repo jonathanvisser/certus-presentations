@@ -3,7 +3,7 @@ class: background, center, middle
 
 # MASSEY MOST.next
 # Survey & Reporting Solution Upgrade Proposal
-.small.center[Author: Jonathan Visser   |   Version: draft v1.0]
+.small.center[Author: Jonathan Visser   |   Version: final v1.0]
 .logo[<img src="massey/img/logo.png"/>]
 
 ---
