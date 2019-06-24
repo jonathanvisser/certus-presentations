@@ -1,13 +1,13 @@
-background-image: url(NZ_Defense/img/bg-certus-slide.jpg)
+background-image: url(BBC/img/bg-certus-slide.jpg)
 class: background, center, middle
 
-# NZ Defense
+# BBC
 
-# Why Communicate?
+# eatme
 
 .small.center[Author:   |   Version: draft v0.1]
 
-.logo[<img src="NZ_Defense/img/logo.png"/>]
+.logo[<img src="BBC/img/logo.png"/>]
 
 ---
 layout: true
