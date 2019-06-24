@@ -3,13 +3,12 @@ class: background, center, middle
 
 # MASSEY MOST.next
 # Survey & Reporting Solution Upgrade Proposal
-.small.center[Author: Jonathan Visser   |   Version: draft v0.1]
+.small.center[Author: Jonathan Visser   |   Version: draft v1.0]
 .logo[<img src="massey/img/logo.png"/>]
 
 ---
 layout: true
 <div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
-
 ---
 
 **CONTENTS**
@@ -46,7 +45,7 @@ To take this proposal forward, we recommend the following two-stage approach:
 
 # Architectural Goals
 
-* Unify survey tooling to Qualtrics platform to simply support and maintenance of surveys.
+* Unify survey tooling to Qualtrics platform to simplify support and maintenance of surveys.
 * Support current reporting output, but enable self-service reporting also.
 * Single-sign-on Integration.
 * Increase capacity to support "every offering every time".
@@ -89,7 +88,6 @@ Here are the noteable benefits:
   * Resource plan
 ]]
 
-
 ---
 
 ### Stage Two - Implementation
@@ -123,14 +121,15 @@ Here are the noteable benefits:
 # Considerations & Assumptions
 * Scaling and load-handling of Massey email server.
 * Assuming that Power BI system is already established. The work here is limited to establishing data connections and to reproducing existing reports.
-* Licencing is assumed to be covered already, and has not been investigated.
+* Licensing is assumed to be covered already, and has not been investigated.
 
 ---
 
 .tight[
 # Investment Ballpark]
-.small[These figures are necessarily high-level and are indictative only. The Planning & Design stage is neccesary to lock-down scope, design, and pricing.]
+.small[These figures are necessarily high-level and are indicative only. The Planning & Design stage is necessary to lock-down scope, design, and pricing.]
 .tight[
+
 ### Planning & Design]
 
 .small.condense[
