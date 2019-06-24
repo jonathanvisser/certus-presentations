@@ -61,9 +61,10 @@ To take this proposal forward, we recommend the following two-stage approach:
 .floatright[<img src="massey/img-massey-most-proposal/solution-overview.png" width="480px"/>]
 
 Here are the noteable benefits:
-* .bblue[Improved mobility, user-experience, scalability, standardisation, and maintenance] through the use of Qualtrics to manage the surveys.
+* .bblue[Improved mobility, user-experience, and standardisation] through the use of Qualtrics to manage the surveys.
 * .bblue[Increased participation rates] by reducing friction by implementing single-sign-on.
 * .bblue[Enhanced insights] through the use of Microsoft's Power BI reporting solution and integration with enriching data.
+* .bblue[ Increased scalability, improved maintenance, and future-proofing] are delivered by de-coupling the system into specialised standard components.
 ]
 
 ---
@@ -117,8 +118,26 @@ Here are the noteable benefits:
 
 ---
 
-# Investment Ballpark
+# Considerations
+* Scaling and load-handling of Massey email server.
 
+---
+
+.tight[
+# Investment Ballpark]
+.tight[
+### Planning & Design]
+.small.condense[
+| Activity          | Estimate Hours | Estimate Investment |
+| ----------------- | -------------- | ------------------- |
+| Development       | .right[80]            | $13,200            |
+| Business Analysis |                |                     |
+| Quality Assurance |                |                     |
+| Management        |                |                     |
+| .right[**totals:**]	    | .right[**300**]	| .right[**$320,000**] |
+]
+.tight[
+### Implementation and go-live]
 .small.condense[
 | Activity          | Estimate Hours | Estimate Investment |
 | ----------------- | -------------- | ------------------- |
@@ -135,4 +154,4 @@ class: center, blue
 
 # Next Steps
 
-Consider and arrange Planning and Design initiation.
+Consider, and arrange Planning and Design initiation.
