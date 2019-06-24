@@ -331,3 +331,5 @@ float: right;
 .box p:first-of-type{
   text-align: center;
 }
+
+.r{text-align:right;display:block;}

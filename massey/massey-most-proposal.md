@@ -20,7 +20,7 @@ layout: true
 * Architectural Goals
 * Solution Overview
 * Scope
-* Approach
+* Considerations & Assumptions
 * Investment Ballpark]
 
 ---
@@ -57,7 +57,7 @@ To take this proposal forward, we recommend the following two-stage approach:
 .tight[
 # Solution Overview
 ]
-.small[The recommended approach aligns the MOST solution to Massey's existing technology landscape - leveraging the best components for each job, whilst delivering a seamless and improved user experience .
+.small[The recommended approach aligns the MOST solution to Massey's existing technology landscape - leveraging the best components for each job, whilst delivering a seamless and improved user experience.
 .floatright[<img src="massey/img-massey-most-proposal/solution-overview.png" width="480px"/>]
 
 Here are the noteable benefits:
@@ -71,19 +71,33 @@ Here are the noteable benefits:
 
 # Scope
 
-### Stage One - Planning
+### Stage One - Planning and Design
 
+.grid[.left.box.small.blue[ ** ARCHITECTURE & DESIGN **
+* Discover workshop to refine requirements.
+* Architectural detailing:
+  * Integration scoping
+  * Business process design
+  * Orchestration design
+  * Target Platforms review
+  * Data architecture ]
+
+.right.box.small.yellow[** PROJECT MANAGEMENT **
+* Creation of a detailed implementation project plan:
+  * Costings
+  * Schedule
+  * Resource plan
+]]
 
 
 ---
 
 ### Stage Two - Implementation
 
-.grid[
+.grid[.left.box.small.green[**TECHNICAL**
 
-.left.box.small.green[**TECHNICAL**
-
-* Establishment of Power BI reporting environment.
+* Development Environment set-up.
+* Establishment of Power BI reporting data connections.
 * Development of Orchestration layer.
 * Integration to Qualtrics, SMS, Stream, Power BI, and any necessary 3rd-party data sources.
 * Data migration.]
@@ -98,54 +112,44 @@ Here are the noteable benefits:
 ] 
 
 .grid.x1[
-.left.box.small.yellow[**QUALITY ASSURANCE**
+.left.box.small.yellow[**QUALITY ASSURANCE & DELIVERY**
 * Functional Testing.
-* ]
+* Technical Governance.
+* Delivery Management.]
 ]
 
 ---
 
-# Approach
-.grid.x3[
-  .left.box.small.red[**QUALITY ASSURANCE**
-
-* Functional Testing.
-* Something else.
-* And another. ]
-  .right.box.small.yellow[**QUALITY ASSURANCE**
-* Functional Testing.]
-]
-
----
-
-# Considerations
+# Considerations & Assumptions
 * Scaling and load-handling of Massey email server.
+* Assuming that Power BI system is already established. The work here is limited to establishing data connections and to reproducing existing reports.
+* Licencing is assumed to be covered already, and has not been investigated.
 
 ---
 
 .tight[
 # Investment Ballpark]
+.small[These figures are necessarily high-level and are indictative only. The Planning & Design stage is neccesary to lock-down scope, design, and pricing.]
 .tight[
 ### Planning & Design]
+
 .small.condense[
 | Activity          | Estimate Hours | Estimate Investment |
 | ----------------- | -------------- | ------------------- |
-| Development       | .right[80]            | $13,200            |
-| Business Analysis |                |                     |
-| Quality Assurance |                |                     |
-| Management        |                |                     |
-| .right[**totals:**]	    | .right[**300**]	| .right[**$320,000**] |
+| Architecture & Design| .r[100-150] | .r[$18k-27k] |
+| Project Planning |  .r[50-75] | .r[$9k-14k]|
+| .r[**totals:**]	    | .r[**150-225 hrs**]	| .r[**NZ$27k-41k**] |
 ]
 .tight[
 ### Implementation and go-live]
 .small.condense[
 | Activity          | Estimate Hours | Estimate Investment |
 | ----------------- | -------------- | ------------------- |
-| Development       | .right[80]            | $13,200            |
-| Business Analysis |                |                     |
-| Quality Assurance |                |                     |
-| Management        |                |                     |
-| .right[**totals:**]	    | .right[**300**]	| .right[**$320,000**] |
+| Development       | .r[500-750] | .r[90k-135k] |
+| Business Analysis | .r[200-300] | .r[$36k-54k]  |
+| Quality Assurance | .r[250-375] | .r[$45k-67k]  |
+| Delivery Management | .r[200-300] | .r[$36k-54k]  |
+| .r[**totals:**] | .r[**1,150-1,725 hrs**]| .r[**NZ$207k-310k**] |
 ]
 
 ---
