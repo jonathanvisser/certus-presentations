@@ -84,7 +84,7 @@ This presentation outlines the current and future states, sets some high-level g
 
 # Architectural Goals
 
-* Increase user adoption and satisfation by delivering a superior web and mobile experience.
+* Increase user adoption and satisfaction by delivering a superior web and mobile experience.
 * Address technical debt whilst leveraging the existing good work and investment.
 * Deliver a solution simple to extend and cost-effective to maintain.
 * Leverage widely supported and portable technology to ensure long-term viability.
