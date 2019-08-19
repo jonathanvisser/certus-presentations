@@ -44,6 +44,8 @@ class:  red, objectives
 
 # Introduction
 
+This presentation outlines the current and future states, sets some high-level goals and some related technology options to agree, and suggests some next steps.
+
 
 
 
@@ -53,7 +55,7 @@ class:  red, objectives
 .tight[
 ## Solution Context
 ]
-.floatleft[Where we're heading]
+.floatleft[Leveraging technology for business growth]
 .floatleft[<img src="motorsport/img-motorsport-next-proposal/solution-context.png" width="100%"/>]
 
 ---
@@ -63,13 +65,13 @@ class:  red, objectives
 ]
 
 .floatright[<img src="motorsport/img-motorsport-next-proposal/current-architecture.png" width="340px"/>]
-.small[
+.sm-all[
 * **WordPress:** 
 	* internet portal
 	* web content management
-	* integrates with event calendar data
+	* integrates event calendar data
 * **AVIARC:**
-	* business process/business logic
+	* bus. process/bus. logic
 	* forms/data capture
 	* content management
 	* reporting
@@ -95,8 +97,14 @@ Limiting the immediate focus to the Event Registration use case:
 .grid.x3[
 .left.box.small.green.component[
 ** STREAMLINED EVENT REGISTRATION **
+* View calendar
 * Event form
 * Payment form
+
+** extensions **
+* Add vehicle
+* Add driver
+* Update profile
 ]
 .right.box.small.blue.component.tech[
 ** TECHNOLOGY** <br><br>
@@ -105,6 +113,7 @@ Limiting the immediate focus to the Event Registration use case:
 ]
 .right.box.small.yellow.inverse.questions[
 ** Questions **
+* Limit to happy path for MVP?
 * Any rentals other than transponders?
 * Events ask for checking of profile details - include?
 * Include up-sell offerings during payment?
@@ -210,13 +219,15 @@ Possum contains complex business rules developed over time. This represents a ve
 ### Stage One - Planning and Design
 
 .grid[.left.box.small.blue[ ** ARCHITECTURE & DESIGN **
-* Discover workshop to refine requirements.
+* Requirements:
+	* Wireframe/screen design
+	* Requirements backlog
+	* Out-of-scope items
+	* Business logic documentation
 * Architectural detailing:
-  * Integration scoping
-  * Business process design
-  * Orchestration design
-  * Target Platforms review
-  * Data architecture ]
+	* Platform investigation & design
+	* Integration scoping
+]
 
 .right.box.small.yellow[** PROJECT MANAGEMENT **
 * Creation of a detailed implementation project plan:
@@ -230,19 +241,30 @@ Possum contains complex business rules developed over time. This represents a ve
 .tight[
 # Next Step Investment
 ]
-.small[These figures are necessarily high-level and are indicative only. The Planning & Design stage is necessary to lock-down scope, design, and pricing.]
+.small[Because of the unknowns in scope, architecture, and business logic complexity, we recommend conducting a short discovery phase to enable planning.]
 .tight[
 
-### Planning & Design]
+### Discover: Planning & Design]
 
 .small.condense[
 | Activity          | Estimate Hours | Estimate Investment |
 | ----------------- | -------------- | ------------------- |
-| Architecture & Design| .r[100-150] | .r[$18k-27k] |
-| Project Planning |  .r[50-75] | .r[$9k-14k]|
-| .r[**totals:**]	    | .r[**150-225 hrs**]	| .r[**NZ$27k-41k**] |
+| Requirements | .r[20] | .r[$3,300] |
+| Architecture & Design| .r[24] | .r[$3,960] |
+| Project Planning | .r[10] | .r[$1,650] |
+| .r[**totals:**]	    | .r[**54 hrs**]	| .r[**NZ$8910**] |
+* assumes scope is highly focused and doesn't spill out into related areas.
+
 ]
 
+### Critical Success Factors
+
+.tight.small[
+
+* Decide on appropriate architectural strategy
+* Agree on clear and focused first-version (MVP)  scope
+
+]
 
 ---
 
@@ -252,6 +274,6 @@ class: center, blue
 
 To take this proposal forward, we recommend the following three-stage approach:
 
-1. **Planning and design** Statement of Work, creation of formal requirements statement, architectural detailing, and creation of a detailed implementation project plan.
+1. **Planning and design:** Statement of Work, creation of formal requirements statement, architectural detailing, and creation of a detailed implementation project plan.
 2. .decision[**Agree plan**]
-3. **Implementation and go-live** Statement of Work, including development, integration, software testing, and User Acceptance Testing support, and post-go-live production warranty.
+3. **Implementation and go-live:** Statement of Work, including development, integration, software testing, and User Acceptance Testing support, and post-go-live production warranty.
