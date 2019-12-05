@@ -63,6 +63,22 @@ maintaining applications
 * Lock-in
 ]
 
+
+---
+.tighter[
+# Modernisation - a history]
+
+<img src="https://mycloudblog7.files.wordpress.com/2013/04/figure-1-evolution-of-cloud-computing-2.jpg" style="width:86%;"/>
+
+
+.small[<sup>ref: https://mycloudblog7.wordpress.com/2015/05/29/the-evolution-to-cloud-computing-how-did-we-get-here/</sup>]
+
+---
+
+### Cloud native - speed and coordination
+<img src="certus/img/pitstop.gif" style="width:100%;"/>
+
+
 ---
 
 .tight[
