@@ -189,6 +189,7 @@ What's happening, and what should happen?]
 ### Cloud strategy
 .left.box.small.red[
 * Cloud is at the heart of digital strategy
+* Architect for change
 * App modernisation should leverage the best in a sustainable & strategic way
 * Beware of defaults and pitfalls
 * But optimise for speed and value
