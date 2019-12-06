@@ -104,9 +104,9 @@ maintaining applications
 .tight[
 #### Optimise:
 ]
-* DevOps
+* Telemetry & Insights
 * Managed services
-* Telemetry & Insights]
+* DevOps]
 .right.box[
 .tight[
 #### Socialise:
