@@ -30,7 +30,7 @@ maintaining applications
 * Improve asset utilization
 
 
-<sup>ref: https://www.evernote.com/l/AB-R9rLJpLlDJKAnq7QOs1SU20686FlVPMQ</sup>
+.small.right[<sup>ref: https://www.evernote.com/l/AB-R9rLJpLlDJKAnq7QOs1SU20686FlVPMQ</sup>]
 
 ---
 
@@ -145,7 +145,7 @@ background-size: contain;
 * Re-architect at the enterprise-level
 * Re-vamp and stream-line the software deliver process end-to-end
 
-<sup>Ref: https://www.evernote.com/l/AB-R9rLJpLlDJKAnq7QOs1SU20686FlVPMQ</sup>
+.small[<sup>Ref: https://www.evernote.com/l/AB-R9rLJpLlDJKAnq7QOs1SU20686FlVPMQ</sup>]
 ]
 
 .right.box[
@@ -171,7 +171,7 @@ background-size: contain;
 There are decisions to be made at the application, application portfolio, and enterprise level:]
 <img src="https://architectelevator.com/assets/img/hybrid_splits.png" style="width:90%;"/>
 
-<sup>Ref: https://architectelevator.com/cloud/hybrid-cloud/</sup>
+.small.right[<sup>Ref: https://architectelevator.com/cloud/hybrid-cloud/</sup>]
 
 
 ---
@@ -182,7 +182,7 @@ What's happening, and what should happen?]
 
 <img src="https://architectelevator.com/assets/img/multi_options.png" style="width:90%;"/>
 
-<sup>Ref: https://architectelevator.com/cloud/hybrid-multi-cloud/</sup>
+.small.right[<sup>Ref: https://architectelevator.com/cloud/hybrid-multi-cloud/</sup>]
 
 ---
 
@@ -210,7 +210,7 @@ Here's an example...
 ##### Cloud Security
 "Another misconfigured Amazon S3 bucket exposes 48M records"
 .small[
-https://searchsecurity.techtarget.com/news/252439665/Another-misconfigured-Amazon-S3-bucket-exposes-48M-records
+[https://searchsecurity.techtarget.com/news](https://searchsecurity.techtarget.com/news/252439665/Another-misconfigured-Amazon-S3-bucket-exposes-48M-records)
 ]]
 
 
@@ -276,16 +276,27 @@ Here's an example...
 
 ---
 
-.bgreen.tight[
+class: center, cover
+background-image: url(certus/img/climbing.jpg)
+background-size: contain; 
+
+.bgreen[
+# ENGINEER: Integration Architecture]
+
+.white[Prepare the way for the future.]    
+
+---
+
+.bgreen.tighter[
 # ENGINEER: Integration challenges]
 
 <img src="certus/img/multicloudchallenges.png" style="width:90%;"/>
 
-<!--sup>Ref: https://www.slideshare.net/kimjclark/multicloud-integration-architecture</sup-->
+.small[<sup>Ref: https://www.slideshare.net/kimjclark/multicloud-integration-architecture</sup>]
 
 ---
 
-.bgreen.tight[
+.bgreen.tighter[
 # ENGINEER: Integration architecture]
 
 <img src="certus/img/hybridcloudarchitecture.png" style="width:90%;"/>
@@ -294,6 +305,17 @@ Here's an example...
 
 ---
 
+class: center, cover
+background-image: url(certus/img/wine.jpg)
+background-size: contain; 
+
+.bgreen[
+# ENGINEER: Data quality & migration]
+
+.white["Data matures like wine. Applications, like fish".]
+> James Governor    
+
+---
 .bgreen[
 # ENGINEER: Data quality & migration]
 
