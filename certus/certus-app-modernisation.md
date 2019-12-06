@@ -90,7 +90,8 @@ maintaining applications
 #### Strategise:
 ]
 * Digital strategy
-* Cloud architecture]
+* Cloud architecture
+* Experience design]
 .right.box.green[
 .tight[
 #### Engineer:
