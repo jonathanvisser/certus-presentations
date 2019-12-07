@@ -18,7 +18,9 @@ layout: true
 # Drivers
 .tighter[
 #### What are you trying to achieve]
-
+.left[
+##### Technology
+.small[
 * Accelerate time to market
 * Reduce the cost, effort, and risk of developing, deploying, changing, and
 maintaining applications
@@ -27,10 +29,19 @@ maintaining applications
 * Enable predictive analytics and real-time insight
 * Embed security and trust
 * Shift IT spend and skilled resources from maintenance to innovation 
-* Improve asset utilization
+* Improve asset utilization]
+.small[
+.small.right[<sup>ref: https://www.evernote.com/l/AB-R9rLJpLlDJKAnq7QOs1SU20686FlVPMQ</sup>]]
+]
 
-
-.small.right[<sup>ref: https://www.evernote.com/l/AB-R9rLJpLlDJKAnq7QOs1SU20686FlVPMQ</sup>]
+.right[
+##### Business
+* Increased revenue and margins
+* Growth in market share
+* Customer satisfaction and brand reinforcement
+.small[
+.small.right[<sup>ref: https://www.evernote.com/l/AB9L-M_2qvZGKK1QXKfW-oTLol1RTde0nxQ</sup>]]
+]
 
 ---
 
@@ -49,6 +60,9 @@ maintaining applications
 
 
 * Entanglement
+
+
+* Security
 ]
 .right[
 * Competing strategic tensions
@@ -344,10 +358,10 @@ background-size: contain;
 
 # Why Certus?
 Seasoned integrated experts with the depth, breadth, and reach to deliver with confidence:
-* .bblue[Cognition Studio:] digital strategy & enterprise architecture
-* .bblue[Cloud Applications:] DevOps, infrastructure, platforms, bespoke software (web & mobile), and integration
+* .bblue[Cognition Studio:] digital strategy, value chain re-architecture, enterprise architecture
+* .bblue[Cloud Applications:] DevOps, infrastructure, platforms (incl. low-code), bespoke software (web & mobile), and integration (incl. RPA)
 * .bblue[Managed Service:] SaaS for enterprise - your way
-* .bblue[Information & Insights:] app telemetrics, data quality, analytics for growth
+* .bblue[Information & Insights:] app telemetrics, data quality, AI, and analytics for growth
 
 
 ---
